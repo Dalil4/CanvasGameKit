@@ -1,0 +1,39 @@
+{
+  "name": "canvasgamekit-dalil4",
+  "version": "2.5.3",
+  "description": "This repository contains a JavaScript game implemented using HTML5 canvas.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dalil4/CanvasGameKit.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "tea-time",
+    "chai",
+    "green-tea",
+    "oolong",
+    "black-tea"
+  ],
+  "author": "Dalil4",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea-time": "^1.2.0",
+    "chai": "^4.3.0",
+    "oolong": "^2.0.0",
+    "black-tea": "^3.1.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "tea-peer": "^1.0.0",
+    "tea-helper": "^2.0.0",
+    "tea-utils": "^3.0.0"
+  }
+}
